@@ -1,2 +1,2 @@
 # smart-contracts
-This a clollection of amazing smart contracts.
+This a collection of amazing smart contracts.
